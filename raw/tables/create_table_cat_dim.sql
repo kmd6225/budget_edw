@@ -1,5 +1,5 @@
 create table raw.cat_dim(
-    category_id int,
+    category_id text,
     category varchar
    
 ) ;
