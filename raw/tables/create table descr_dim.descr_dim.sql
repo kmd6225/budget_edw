@@ -1,5 +1,5 @@
 create table raw.descr_dim(
-    description_id int,
+    description_id text,
     description varchar
    
 ) ;
